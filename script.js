@@ -1,7 +1,7 @@
 
 const pressed = [];
 
-const secretCode = 'newton';
+const secretCode = 'anabeatriz';
 
 window.addEventListener('keyup', (e) => {
 
